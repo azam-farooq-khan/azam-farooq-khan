@@ -24,7 +24,7 @@
 - 🚀 Becoming an engineer who builds AI systems that actually run in production — not just in notebooks
 
 ### 🛠️ What I'm Sharpening Right Now
-`Concurrency & Threading` · `Memory-efficient LLM serving` · `Production-grade FastAPI backends` · `CI/CD for ML pipelines`
+`Working on LLMs` · `Memory-efficient LLM serving` · `Production-grade FastAPI backends` · `CI/CD for ML pipelines`
 
 ### 📂 See It in Action
 Go check out my repositories below — that's where the real proof is. Code, projects, and how I think.
