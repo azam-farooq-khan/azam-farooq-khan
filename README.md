@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Engineer | MLOps & DevOps for AI Systems</h3>
 
 <p align="center">
-  I don't just build models — I ship them. Focused on taking AI from notebook to production: clean pipelines, containerized deployments, and systems that don't fall over under load.
+  I don't just build models — I ship them. Taking AI from notebook to production: clean pipelines, containerized deployments, and systems that don't fall over under load.
 </p>
 
 <p align="center">
@@ -17,23 +17,17 @@
 
 ---
 
-### 🎯 What I'm About
-- 🎓 6th-semester AI undergrad (Pakistan) | AWS Cloud Club member
-- 🧠 Core focus: **ML/AI Engineering** — models, RAG, LLMs
+### 🎯 MySelf
+- 🎓 Final-year AI undergrad (Pakistan) | AWS Cloud Club member
+- 🧠 Core focus: **AI/ML Engineering** — models, RAG, LLMs
 - ⚙️ Backed by **MLOps & DevOps**: Docker, CI/CD, MLflow, monitoring, cloud deployment
-- 🎯 Actively seeking a **paid Junior AI Engineer internship/role** — remote or Pakistan-based
+- 🚀 Becoming an engineer who builds AI systems that actually run in production — not just in notebooks
 
 ### 🛠️ What I'm Sharpening Right Now
 `Concurrency & Threading` · `Memory-efficient LLM serving` · `Production-grade FastAPI backends` · `CI/CD for ML pipelines`
 
-### 📂 Explore My Work
-| Repo | What's Inside |
-|---|---|
-| [python_practise_examples](https://github.com/YOUR_USERNAME/python_practise_examples) | Python fundamentals, done right |
-| [python-advance](https://github.com/YOUR_USERNAME/python-advance) | OOP, concurrency, production-style patterns |
-
-> 📌 More projects (RAG pipelines, deployed ML services) landing soon — watch this space.
+### 📂 See It in Action
+Go check out my repositories below — that's where the real proof is. Code, projects, and how I think.
 
 ### 📫 Let's Talk
-**Open to internships & junior roles.** Reach me directly:
-📧 YOUR_EMAIL · 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+📧 azamfarooqkhan@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/azam-farooq-khan)
